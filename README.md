@@ -1,5 +1,5 @@
 # Argos npm packages versions
-This [Argos](https://github.com/p-e-w/argos) is used to keep track of npm
+This [Argos](https://github.com/p-e-w/argos) plugin is used to keep track of npm
 packages version and will notify you if a new version is released.
 
 ## Requirements
