@@ -40,7 +40,7 @@ packages version and will notify you if a new version is released.
 
 ## Adding the plugin to argos
     
-I advice to create a symlink to file and not to copy the plugin directly in the ".config/argos" folder
+I advice to create a symlink to file and not to copy the plugin directly in the "~/.config/argos" folder
 The file to link is "npmVersions.c.5m+.py"
 
 ## Adding a package
