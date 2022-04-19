@@ -1,0 +1,6 @@
+*.db
+__pycache__
+*.env
+*.json
+*.log
+*_ignore
